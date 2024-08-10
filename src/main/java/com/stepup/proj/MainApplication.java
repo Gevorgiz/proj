@@ -4,6 +4,9 @@ public class MainApplication {
 
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("New Hello world");
+        System.out.println("1000");
+        System.out.println("2222 Hello world");
+        System.out.println("3333 Hello world");
+
     }
 }
