@@ -7,13 +7,15 @@ public class MainApplication {
         System.out.println("1000");
         System.out.println("2222 Hello world");
         System.out.println("3333 Hello world");
+        System.out.println("----- Hello world");
 
     }
 
     public static void doSomething (){
         System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
+        System.out.println(0);
+        System.out.println(0);
+        System.out.println(222222);
 
     }
 }
